@@ -1,0 +1,11 @@
+size(800,800);
+background(#00FFF0);
+fill(#FFFFFF);
+ellipse(150,625,300,300);
+ellipse(150,425,175,150);
+fill(#000000);
+ellipse(200,400,100,100);
+ellipse(95,400,100,100);
+fill(#FFFFFF);
+ellipse(200,400,40,40);
+ellipse(95,400,40,40);
