@@ -9,3 +9,5 @@ ellipse(95,400,100,100);
 fill(#FFFFFF);
 ellipse(200,400,40,40);
 ellipse(95,400,40,40);
+fill(#FF8BF8);
+ellipse(150,625,200,250);
