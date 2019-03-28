@@ -14,18 +14,24 @@ public class QuizGame {
 				String name = JOptionPane.showInputDialog("WHAT IS MEH PASSWORD???");
 		
 		// 3.  Use an if statement to check if their answer is correct
-				if(answer.equals("Gullible")) 
-					JOptionPane.show
-				else {
-				
+				if(name.equals("Gullible")) {
+				score=score+1;
+				}
 		
 		// 4.  if the user's answer is correct
 		
 		// -- add one to their score 
+				System.out.print(score);
 		
 		// 5.  Create more questions by repeating steps 1, 2, and 3 below. 
+				JOptionPane.showMessageDialog(null,"KNOcK KCOnk");
+				JOptionPane.showMessageDialog(null,"Whos Ther");
+				String nam = JOptionPane.showInputDialog("Whos Ther");
+				JOptionPane.showMessageDialog(null, "The one to suck your soul will be..."+nam);
+				score=score+1;
 		
 		// 6.  After all the questions have been asked, print the user's score 
+				
 		
-	}
-}
+	
+}}
